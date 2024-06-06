@@ -10,22 +10,28 @@ NIM : 12030122120059
 
 Mata Kuliah/ Kelas : Pengkodean Dan Pemrograman/E
 
-# Soal Data Analitik 
+# SOAL DATA ANALITIK
 
 PT Sukses Bersama adalah sebuah perusahaan yang bergerak di bidang penjualan berbagai jenis barang. Perusahaan ini memiliki data penjualan yang disimpan dalam bentuk tabel yang berisi informasi faktur penjualan, jenis kelamin pelanggan, dan jenis barang yang dibeli. PT Sukses Bersama ingin menganalisis data tersebut untuk mendapatkan wawasan yang dapat membantu meningkatkan strategi penjualan mereka.
 
-# File Tabel Dan Data Penjualan 
+# PROSES PENYELESAIAN SOAL ATAU PENGOPERASIAN VSCODE
+1. Membuat data penjualan pada excel dengan diberi nama file: data_penjualan dan file disimpan csv (comand delimited) pada satu folder di windows C
+2. Pada Visual Studio Code pilih opsi open folder, kemudian masukan folder yang sudah dibuat pada windows c yang berisi file data penjualan kemudian pilih menu open dan folder akan masuk ke Visual Studio Code
+3. Setelah itu pada Visual Studio Code pilih tambah file dan diberi nama sesuai folder yang disimpan tadi contohnya: penjualan.py atau nama.py
+4. setelah itu salin kode python pada board
+5. kemudian ctrl+a lalu tekan run
+6. Visual studio code akan menampilkan grafik data analitik dan juga pada bagian terminal terdapat hasil dari data analitik
 
-File Tabel Data Penjualan:
+# GRAFIK HASIL DATA 
+Berikut ini beberapa grafik yang dihasilkan dari data analitik yang diproses
 
-Faktur	Tanggal	Jenis Kelamin	Jenis Barang	Jumlah	Harga Satuan
-1001	2023-01-01	L	Elektronik	2	1500000
-1002	2023-01-02	P	Pakaian	3	200000
-1003	2023-01-03	L	Elektronik	1	2500000
-1004	2023-01-04	P	Makanan	5	50000
-1005	2023-01-05	L	Elektronik	1	3000000
-1006	2023-01-06	P	Pakaian	4	250000
-1007	2023-01-07	L	Makanan	10	45000
-1008	2023-01-08	P	Elektronik	1	2000000
-1009	2023-01-09	L	Pakaian	3	300000
-1010	2023-01-10	P	Makanan	2	60000
+# Grafik 1
+![Figure_1](https://github.com/RizkyTsaniyatunRofiah/DataAnalitikPengkodeanDanPemrograman-RizkyTsaniyatunRofi-ah/assets/166540615/70d17a19-035d-4d8d-bb8d-fd751c03fdc0)
+
+
+# Grafik 2
+![Figure_2](https://github.com/RizkyTsaniyatunRofiah/DataAnalitikPengkodeanDanPemrograman-RizkyTsaniyatunRofi-ah/assets/166540615/6c6df98b-1542-4862-8d6e-564c5980665b)
+
+
+# Grafik 3
+![Figure_3](https://github.com/RizkyTsaniyatunRofiah/DataAnalitikPengkodeanDanPemrograman-RizkyTsaniyatunRofi-ah/assets/166540615/9f19fd58-eebe-4b06-a592-23c085730722)
